@@ -1,6 +1,6 @@
-# Livro de Rreceitas :cake:
+# Livro de Receitas :cake:
 
-Ola seja bem vindo ao Livro de Receitas.
+Olá seja bem vindo ao Livro de Receitas.
 
 - Pizza a moda da casa.
 
